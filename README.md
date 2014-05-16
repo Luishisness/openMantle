@@ -5,8 +5,9 @@ Real Estate Search App
 
 Overview
 --------
-This project optimizes real estate searches for property with the highest liviability conditions 
-by analyzing current market listing, geological, and environment data without explicit user input.
+This project searches for real estate with the highest convience and liviability conditions 
+by analyzing current market listing, geological, and environment data within a user defined search space.
+
 Compilers
 ------------
 clang >=3.3 <br>
