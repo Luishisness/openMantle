@@ -12,8 +12,8 @@ by analyzing current market listing, geological, and environment data without ex
 Dependencies
 ============
 ============
-clang >=3.3
-javac 1.8.0
-openJDK Runtime Environment 1.8.0
+clang >=3.3 <br>
+javac 1.8.0 <br>
+openJDK Runtime Environment 1.8.0 <br>
 
 Jsoup 1.7.3
