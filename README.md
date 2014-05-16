@@ -10,8 +10,7 @@ This project optimizes real estate searches for property with the highest liviab
 by analyzing current market listing, geological, and environment data without explicit user input.
 
 Dependencies
-============
-============
+------------
 clang >=3.3 <br>
 javac 1.8.0 <br>
 openJDK Runtime Environment 1.8.0 <br>
