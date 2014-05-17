@@ -16,3 +16,11 @@ Libraries
 -----------
 Java SE 8 <br>
 Jsoup 1.7.3 <br>
+
+Commands
+-------------
+DEBUGGING <br>
+mvn package<br>
+
+BUILD EXECUTABLE JAR FILE<br>
+mvn clean compile assembly:single<br>
