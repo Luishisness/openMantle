@@ -162,7 +162,9 @@ public class OMUI extends javax.swing.JFrame implements DataPipe{
 
     private void button1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_button1ActionPerformed
         // TODO add your handling code here:
+        
     }//GEN-LAST:event_button1ActionPerformed
+    
 
     /**
      * @param args the command line arguments
